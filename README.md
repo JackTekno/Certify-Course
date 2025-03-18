@@ -2,7 +2,12 @@
 
 Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
 
-# Screenshot
+## Demo
+
+Silahkan kunjungi link [siberin.id/validate-certificate/](https://siberin.id/validate-certificate/) dan masukkan kode unik: `SIBERIN7b2fac0840a0012d04ccbab313e751d6`
+atau bisa langsung melalui link berikut ini [siberin.id/validate-certificate/?code=SIBERIN7b2fac0840a0012d04ccbab313e751d6](https://siberin.id/validate-certificate/?code=SIBERIN7b2fac0840a0012d04ccbab313e751) (kode unik akan otomatis disubmit).
+
+## Screenshot
 
 - **Daftar Sertifikat**
   
@@ -126,7 +131,7 @@ Dikembangkan oleh **JackTekno ([zaky@siberin.id](mailto:zaky@siberin.id))**.
 
 ## Versi Akan Datang
 
-- 1.1: Menambahkan fitur custom id sertifikat diawal. Seperti **SIBERIN**7b2fac0840a0012d04ccbab313e751
+- 1.1: Menambahkan fitur custom id sertifikat diawal. Seperti **SIBERIN**7b2fac0840a0012d04ccbab313e751d6
 
 ## Lisensi
 
