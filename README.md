@@ -5,16 +5,20 @@ Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course den
 # Screenshot
 
 - **Daftar Sertifikat**
-![Daftar Sertifikat](/Images/daftar-sertifikat.png)
+  
+  ![Daftar Sertifikat](/Images/daftar-sertifikat.png)
 
 - **Menu Dashboard Wordpress**
-![Menu Dashboard Wordpress](/Images/menu.png)
+  
+  ![Menu Dashboard Wordpress](/Images/menu.png)
 
 - **Buat Sertifikat**
-![Buat Sertifikat](/Images/buat-sertifikat.png)
+  
+  ![Buat Sertifikat](/Images/buat-sertifikat.png)
 
 - **Bulk Sertifikat**
-![Bulk Sertifikat](/Images/bulk-sertifikat.png)
+  
+  ![Bulk Sertifikat](/Images/bulk-sertifikat.png)
 
 ## Deskripsi
 
