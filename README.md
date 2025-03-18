@@ -100,7 +100,7 @@ Untuk dukungan atau permintaan fitur, silakan hubungi email **[zaky@siberin.id](
 
 ## Kredit
 
-Dikembangkan oleh **JackTekno [zaky@siberin.id]((mailto:zaky@siberin.id))**.
+Dikembangkan oleh **JackTekno ([zaky@siberin.id](mailto:zaky@siberin.id))**.
 
 ## Riwayat Versi
 
