@@ -2,8 +2,19 @@
 
 Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
 
+# Screenshot
+
+- **Daftar Sertifikat**
 ![Daftar Sertifikat](/Images/daftar-sertifikat.png)
 
+- **Menu Dashboard Wordpress**
+![Menu Dashboard Wordpress](/Images/menu.png)
+
+- **Buat Sertifikat**
+![Buat Sertifikat](/Images/buat-sertifikat.png)
+
+- **Bulk Sertifikat**
+![Bulk Sertifikat](/Images/bulk-sertifikat.png)
 
 ## Deskripsi
 
