@@ -108,8 +108,8 @@ Dikembangkan oleh SIBERIN
 
 ## Versi Akan Datang
 
-- 1.1: Versi stabil saat ini
+- 1.1: Menambahkan fitur custom id sertifikat diawal. Seperti `SIBERIN`7b2fac0840a0012d04ccbab313e751
 
 ## Lisensi
 
-Plugin ini dilisensikan di bawah ketentuan lisensi 'GPL-3.0 license'.
+Plugin ini dilisensikan di bawah ketentuan lisensi `GPL-3.0 license`.
