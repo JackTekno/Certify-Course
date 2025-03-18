@@ -2,6 +2,8 @@
 
 Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
 
+![Daftar Sertifikat] (Images/daftar-sertifikat.png)
+
 ## Deskripsi
 
 Sistem Sertifikat Course adalah plugin WordPress komprehensif yang dirancang untuk membantu platform pendidikan, penyedia kursus, dan organisasi pelatihan dalam membuat dan mengelola sertifikat digital untuk siswa mereka. Plugin ini menyediakan sistem validasi yang aman menggunakan kode unik dan QR code, memungkinkan siapa saja untuk memverifikasi keaslian sertifikat.
@@ -108,7 +110,7 @@ Dikembangkan oleh **JackTekno ([zaky@siberin.id](mailto:zaky@siberin.id))**.
 
 ## Versi Akan Datang
 
-- 1.1: Menambahkan fitur custom id sertifikat diawal. Seperti `SIBERIN`7b2fac0840a0012d04ccbab313e751
+- 1.1: Menambahkan fitur custom id sertifikat diawal. Seperti **SIBERIN**7b2fac0840a0012d04ccbab313e751
 
 ## Lisensi
 
