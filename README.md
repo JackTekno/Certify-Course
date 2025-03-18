@@ -2,36 +2,31 @@
 
 Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
 
+## Daftar Isi
+- [Demo](#demo)
+- [Deskripsi](#deskripsi)
+- [Fitur](#fitur)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+  - [Membuat Sertifikat Individual](#membuat-sertifikat-individual)
+  - [Bulk Generate Sertifikat](#bulk-generate-sertifikat)
+  - [Validasi Sertifikat](#validasi-sertifikat)
+  - [Mengelola Sertifikat](#mengelola-sertifikat)
+- [Fitur Keamanan](#fitur-keamanan)
+- [Styling Kustom](#styling-kustom)
+- [Struktur Database](#struktur-database)
+- [Persyaratan](#persyaratan)
+- [Dukungan](#dukungan)
+- [Kredit](#kredit)
+- [Riwayat Versi](#riwayat-versi)
+- [Versi Akan Datang](#versi-akan-datang)
+- [Lisensi](#lisensi)
+- [Screenshot](#screenshot)
+
 ## Demo
 
 Silahkan kunjungi link [siberin.id/validate-certificate/](https://siberin.id/validate-certificate/) dan masukkan kode unik: `SIBERIN7b2fac0840a0012d04ccbab313e751d6`
 atau bisa langsung melalui link berikut ini [siberin.id/validate-certificate/?code=SIBERIN7b2fac0840a0012d04ccbab313e751d6](https://siberin.id/validate-certificate/?code=SIBERIN7b2fac0840a0012d04ccbab313e751) (kode unik akan otomatis disubmit).
-
-## Screenshot
-
-- **Daftar Sertifikat**
-  
-  ![Daftar Sertifikat](/Images/daftar-sertifikat.png)
-
-- **Menu Dashboard Wordpress**
-  
-  ![Menu Dashboard Wordpress](/Images/menu.png)
-
-- **Buat Sertifikat**
-  
-  ![Buat Sertifikat](/Images/buat-sertifikat.png)
-
-- **Bulk Sertifikat**
-  
-  ![Bulk Sertifikat](/Images/bulk-sertifikat.png)
-
-- **Validasi Sertifikat**
-  
-  ![Validasi Sertifikat](/Images/validasi-sertifikat.png)
-
-- **Hasil Validasi Sertifikat**
-  
-  ![Hasil Validasi Sertifikat](/Images/validasi-hasil.png)
 
 ## Deskripsi
 
@@ -147,3 +142,29 @@ Dikembangkan oleh **JackTekno ([zaky@siberin.id](mailto:zaky@siberin.id))**.
 ## Lisensi
 
 Plugin ini dilisensikan di bawah ketentuan lisensi `GPL-3.0 license`.
+
+## Screenshot
+
+- **Daftar Sertifikat**
+  
+  ![Daftar Sertifikat](/Images/daftar-sertifikat.png)
+
+- **Menu Dashboard Wordpress**
+  
+  ![Menu Dashboard Wordpress](/Images/menu.png)
+
+- **Buat Sertifikat**
+  
+  ![Buat Sertifikat](/Images/buat-sertifikat.png)
+
+- **Bulk Sertifikat**
+  
+  ![Bulk Sertifikat](/Images/bulk-sertifikat.png)
+
+- **Validasi Sertifikat**
+  
+  ![Validasi Sertifikat](/Images/validasi-sertifikat.png)
+
+- **Hasil Validasi Sertifikat**
+  
+  ![Hasil Validasi Sertifikat](/Images/validasi-hasil.png)
