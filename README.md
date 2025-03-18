@@ -96,11 +96,11 @@ Plugin ini membuat tabel kustom di database WordPress Anda dengan struktur berik
 
 ## Dukungan
 
-Untuk dukungan atau permintaan fitur, silakan hubungi email `zaky@siberin.id`.
+Untuk dukungan atau permintaan fitur, silakan hubungi email **[zaky@siberin.id](mailto:zaky@siberin.id)**.
 
 ## Kredit
 
-Dikembangkan oleh JackTekno (zaky@siberin.id).
+Dikembangkan oleh **JackTekno [zaky@siberin.id](mailto:zaky@siberin.id)**.
 
 ## Riwayat Versi
 
