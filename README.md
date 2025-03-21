@@ -1,6 +1,6 @@
-# Sistem Sertifikat Course
+# Certify-Course
 
-Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
+CertifyCourse (Course Education Recognition Tool for Issuing and Facilitating Your Complete Online Universal Reliable Secure E-certificates) adalah Plugin WordPress untuk membuat, mengelola, dan memvalidasi sertifikat course dengan QR code yang aman.
 
 ## Daftar Isi
 - [Demo](#demo)
