@@ -130,12 +130,14 @@ Dikembangkan oleh **JackTekno ([zaky@siberin.id](mailto:zaky@siberin.id))**.
 
 ## Riwayat Versi
 
-- 1.0: Versi stabil saat ini
+- 1.0: Versi stabil saat ini.
+- 1.1: Menambahkan fitur custom id sertifikat diawal langsung pada dashboard wordpress. Seperti **JackTekno**7b2fac0840a0012d04ccbab313e751d6.
+- 1.2: Menambahkan fitur dukungan export.
 
 ## Versi Akan Datang
 
-- 1.1: Menambahkan fitur custom id sertifikat diawal langsung pada dashboard wordpress. Seperti **SIBERIN**7b2fac0840a0012d04ccbab313e751d6
-- 1.2: Menambahkan fitur dukungan export.
+- 2.0: Menambahkan pengatauran pilihan Bahasa.
+- 2.1: Menambahkan bahasa Inggris (English).
 
 ## Lisensi
 
