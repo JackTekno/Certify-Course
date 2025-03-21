@@ -30,7 +30,7 @@ atau bisa langsung melalui link berikut ini [siberin.id/validate-certificate/?co
 
 ## Deskripsi
 
-Sistem Sertifikat Course adalah plugin WordPress komprehensif yang dirancang untuk membantu platform pendidikan, penyedia kursus, dan organisasi pelatihan dalam membuat dan mengelola sertifikat digital untuk siswa mereka. Plugin ini menyediakan sistem validasi yang aman menggunakan kode unik dan QR code, memungkinkan siapa saja untuk memverifikasi keaslian sertifikat.
+CertifyCourse (Course Education Recognition Tool for Issuing and Facilitating Your Complete Online Universal Reliable Secure E-certificates) adalah plugin WordPress komprehensif yang dirancang untuk membantu platform pendidikan, penyedia kursus, dan organisasi pelatihan dalam membuat dan mengelola sertifikat digital untuk siswa mereka. Plugin ini menyediakan sistem validasi yang aman menggunakan kode unik dan QR code, memungkinkan siapa saja untuk memverifikasi keaslian sertifikat.
 
 ## Fitur
 
